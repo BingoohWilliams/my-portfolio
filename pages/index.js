@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
 
       <main className="bg-white p-8 rounded-lg shadow-lg max-w-xl w-full">
-        <h1 className="text-4xl font-bold text-center text-gray-800 mb-6">Williams</h1>
+        <h1 className="text-4xl font-bold text-center text-gray-800 mb-6">William Soko</h1>
         <p className="text-xl text-center text-gray-600 mb-6">
           ICT student and aspiring software developer. Learning to build modern web apps using AI.
         </p>
