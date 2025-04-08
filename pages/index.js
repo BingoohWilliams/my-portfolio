@@ -29,7 +29,9 @@ export default function Home() {
         </section>
 
         <footer className="text-center text-gray-500 text-sm">
-          <p>Contact me: williamsoko03@email.com</p>
+          <p>Contacts:</p>
+          <p>Email: williamsoko03@email.com</p>
+          <P>Phone: +265 987 33 66 83</P>
         </footer>
       </main>
     </div>
